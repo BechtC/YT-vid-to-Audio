@@ -1,0 +1,18 @@
+{
+    "download": {
+        "quality": "best",
+        "format": "mp3"
+    },
+    "paths": {
+        "temp_download": "temp",
+        "output": "output"
+    },
+    "usb": {
+        "drive_letter": "",
+        "auto_detect": true
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "logs/app.log"
+    }
+}
